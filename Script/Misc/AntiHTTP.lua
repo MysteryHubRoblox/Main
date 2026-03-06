@@ -1,18 +1,3 @@
-ANTI HTTP LOGGER
-Prevents all kinds of HTTP logging methods and is completely invisible.
-Should work on all executors.
-
-Made with love, Vadrifts team <3
-
- __   __   ______     _____     ______     __     ______   ______   ______    
-/\ \ / /  /\  __ \   /\  __-.  /\  == \   /\ \   /\  ___\ /\__  _\ /\  ___\   
-\ \ \'/   \ \  __ \  \ \ \/\ \ \ \  __<   \ \ \  \ \  __\ \/_/\ \/ \ \___  \   loadstring(game:HttpGet("https://raw.githubusercontent.com/vqmpjayZ/utils/refs/heads/main/Anti-Http-Logger.lua"))()
- \ \__|    \ \_\ \_\  \ \____-  \ \_\ \_\  \ \_\  \ \_\      \ \_\  \/\_____\                                                  put at the top of your script
-  \/_/      \/_/\/_/   \/____/   \/_/ /_/   \/_/   \/_/       \/_/   \/_____/ 
-                                dsc.gg/vadriftz
-
-]]
-
 if _G.__ANTI_HTTP_SPY_ACTIVE then
     return
 end
